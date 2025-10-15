@@ -1,0 +1,60 @@
+{
+    "tipo_imovel": "casa",
+    "quartos": 3,
+    "garagem": true,
+    "criancas": true,
+    "valor_aluguel_mensal": 1200,
+    "valor_contrato_total": 2000,
+    "parcelas_contrato": 12,
+    "valor_parcela_contrato": 166.67,
+    "parcelas_mensais": [
+        {
+            "mes": 1,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 2,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 3,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 4,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 5,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 6,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 7,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 8,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 9,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 10,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 11,
+            "valor_total": 1366.67
+        },
+        {
+            "mes": 12,
+            "valor_total": 1366.67
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+[INÍCIO]
+   ↓
+[Exibir mensagem de boas-vindas]
+   ↓
+[Solicitar tipo de imóvel (apartamento, casa, estúdio)]
+   ↓
+[Solicitar quantidade de quartos (1 ou 2)]
+   ↓
+[Solicitar se deseja vaga de garagem (s/n)]
+   ↓
+[Solicitar se possui crianças (s/n)]
+   ↓
+[SE tipo == "estúdio"]
+      ↓
+   [Solicitar número de vagas de estacionamento]
+   ↓
+[Instanciar objeto Imovel com os dados coletados]
+   ↓
+[Calcular valor do aluguel com base nas regras]
+   ↓
+[Instanciar objeto Contrato com valor fixo de R$ 2.000,00]
+   ↓
+[Calcular valor da parcela do contrato]
+   ↓
+[Exibir orçamento final para o usuário]
+   ↓
+[Salvar dados em arquivo JSON com 12 parcelas mensais]
+   ↓
+[Exibir mensagem de sucesso]
+   ↓
+[FIM]
